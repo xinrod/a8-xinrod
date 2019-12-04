@@ -4,7 +4,7 @@ import java.awt.Dimension;
 
 import javax.swing.JFrame;
 
-public class Main {
+public class GameOfLife {
 
 	public static void main(String[] args) {
 		GOLModel model = new GOLModel();
